@@ -1,6 +1,6 @@
 {
     "name": "og-image",	 
-    "alias": [ "og-image.now.sh", "api-og-image.zeit.sh" ],
+    "alias": [ "og-image.faizmokhtar.now.sh" ],
     "version": 2,
     "regions": ["all"],
     "public": true,
